@@ -284,5 +284,8 @@
     "addresses_title": "Cyfeiriadau",
     "type_change": "Newid",
     "type_receive": "Derbyn"
+  },
+  "aopp": {
+    "title": "Dewis Cyfeiriad"
   }
 }
